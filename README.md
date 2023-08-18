@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Project Description Image](https://github.com/jinyangp/dso_localisation/assets/85600715/5e282476-2c61-46c7-ac19-d425cbefb4b0)
+![Project Description Image](https://github.com/jinyangp/dso_localisation/assets/85600715/458a60c2-432d-4c4e-a4de-297360400037)
 
 Traditional localisation relies on GNSS to perform accurate localisation. However, this requires a few Line-of-Sight (LOS) transmission (at least three) between the mobile node (receiver) and the base stations. However, in urban environments, there may not be an availability of LOS transmission due to physical blockages like high-rise buildings. This can lead to a huge deterioration in the performance of traditional methods using GNSS.
 
