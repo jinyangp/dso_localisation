@@ -49,6 +49,8 @@ In order to utilise these NLOS transmissions to achieve accurate localisation, f
 
 This section gives a brief description of the content inside each folder.
 
+**Note: Some notebooks use anchor tag to denote different sections of the notebook. These anchor tags do not work when the notebook is viewed on GitHub. Please head to [nbviewer](https://nbviewer.org/) and copy the URL of the notebook to view the notebook with functional anchor tags.**
+
 | Folder name | Description |
 | ----------- | ----------- |
 | data_augmentation | Contains implementation code for performing data augmentation using the GraphSAGE model and non machine learning methods |
