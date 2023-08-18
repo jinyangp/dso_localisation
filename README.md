@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <h2>Deep ML Wireless Localisation using Donor Signals with Deep Learning</h2>
+  <h2>ML Wireless Localisation using Donor Signals with Deep Learning</h2>
 </div>
 
 <!-- TABLE OF CONTENTS -->
